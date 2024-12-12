@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 .middle{
-	border:1px solid black;
+	border:1px solid rgb(0,0,0);
 	border-spacing:1px;
 	padding:1px;
 	height:100%;
@@ -9,6 +9,7 @@
 h1{
  text-align:center;
 }
+
 .green{
 	background-color:green;
 }
